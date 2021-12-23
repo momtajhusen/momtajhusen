@@ -8,10 +8,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on  study. 
 - 🌱 I’m currently learning web development. 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/momtajhusen)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/luckyraza78692)  
-
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=momtajhusen)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=momtajhusen&show_icons=true&count_private=true)  
