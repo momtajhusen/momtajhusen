@@ -1,4 +1,4 @@
-![  UI/UX Designer & Web Developer.](https://scontent.fbho2-1.fna.fbcdn.net/v/t39.30808-6/269796191_1200950630428708_3845878045334282255_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=ICoNEsa303QAX-F66y7&_nc_ht=scontent.fbho2-1.fna&oh=00_AT-IexvpljSsakmteFRqn09Tv3nlYDq0BI3Q25Ebk-CVwA&oe=61DC3E13)
+![  UI/UX Designer & Web Developer.]([https://scontent.fbho2-1.fna.fbcdn.net/v/t39.30808-6/269796191_1200950630428708_3845878045334282255_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=ICoNEsa303QAX-F66y7&_nc_ht=scontent.fbho2-1.fna&oh=00_AT-IexvpljSsakmteFRqn09Tv3nlYDq0BI3Q25Ebk-CVwA&oe=61DC3E13](https://media.licdn.com/dms/image/v2/D4D16AQHxaoDnYZ8w1A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725211509216?e=1730937600&v=beta&t=jstScwUWe8RCOSXsH8nSB0_1RUd9N1B4NXZ76cl02R8))
 <h2 align="center" >  Hi i am Momtaj Husen UI / UX Designer & Web Developer.</h2>
 
 
